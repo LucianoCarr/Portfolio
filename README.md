@@ -18,6 +18,6 @@ Performance basics are covered: assets are minified into single CSS and JS files
 * Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
  -->
 
- # [Tel](+54 9 11 5311-8096)
+ # [Tel: +54 9 11 5311-8096]
 
- # [E-mail](luciano.carrizo26@gmail.com)
+ # [E-mail : luciano.carrizo26@gmail.com]
